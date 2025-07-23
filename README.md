@@ -21,11 +21,11 @@ Estructura del proyecto:
 
 forecast_ventas/ │ ├── forecaster/              
 Clases de cada modelo ├── forecaster_prophet.py │   ├── forecaster_arima.py │   └── forecaster_xgboost.py │├── resultados_forecaster/  
-# Archivos generados ├── data/                   
-# Datos de entrada ├── ejecutar_forecast.py    
-# Script principal ├── ventas_forecaster.py    
-# Clase central del flujo ├── utils.py                 
-# Funciones auxiliares └── README.md
+Archivos generados ├── data/                   
+Datos de entrada ├── ejecutar_forecast.py    
+Script principal ├── ventas_forecaster.py    
+Clase central del flujo ├── utils.py                 
+Funciones auxiliares └── README.md
 
 Cómo ejecutar
 
